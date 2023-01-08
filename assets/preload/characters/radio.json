@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "radioidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "radiodown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				307
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "radioup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "radioright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "radioleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				590
+			],
+			"anim": "giradio",
+			"fps": 24,
+			"name": "giradio",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/radio",
+	"position": [
+		60,
+		510
+	],
+	"healthicon": "radio",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		175,
+		109
+	],
+	"camera_position": [
+		-200,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
