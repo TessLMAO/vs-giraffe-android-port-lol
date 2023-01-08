@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menugiraffe.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menugiraffe0000" x="2" y="2" width="805" height="905" frameX="0" frameY="0" frameWidth="812" frameHeight="905"/>
+	<SubTexture name="menugiraffe0001" x="2" y="2" width="805" height="905" frameX="0" frameY="0" frameWidth="812" frameHeight="905"/>
+	<SubTexture name="menugiraffe0002" x="809" y="2" width="812" height="905"/>
+	<SubTexture name="menugiraffe0003" x="809" y="2" width="812" height="905"/>
+	<SubTexture name="menugiraffe0004" x="2" y="909" width="804" height="905" frameX="0" frameY="0" frameWidth="812" frameHeight="905"/>
+	<SubTexture name="menugiraffe0005" x="2" y="909" width="804" height="905" frameX="0" frameY="0" frameWidth="812" frameHeight="905"/>
+</TextureAtlas>
