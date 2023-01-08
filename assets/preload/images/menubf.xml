@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menubf.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menubf0000" x="2" y="2" width="797" height="905" frameX="0" frameY="0" frameWidth="815" frameHeight="905"/>
+	<SubTexture name="menubf0001" x="2" y="2" width="797" height="905" frameX="0" frameY="0" frameWidth="815" frameHeight="905"/>
+	<SubTexture name="menubf0002" x="801" y="2" width="801" height="905" frameX="0" frameY="0" frameWidth="815" frameHeight="905"/>
+	<SubTexture name="menubf0003" x="801" y="2" width="801" height="905" frameX="0" frameY="0" frameWidth="815" frameHeight="905"/>
+	<SubTexture name="menubf0004" x="1604" y="2" width="811" height="905" frameX="0" frameY="0" frameWidth="815" frameHeight="905"/>
+	<SubTexture name="menubf0005" x="1604" y="2" width="811" height="905" frameX="0" frameY="0" frameWidth="815" frameHeight="905"/>
+	<SubTexture name="menubf0006" x="2417" y="2" width="815" height="905"/>
+	<SubTexture name="menubf0007" x="3234" y="2" width="815" height="905"/>
+	<SubTexture name="menubf0008" x="2" y="909" width="815" height="905"/>
+	<SubTexture name="menubf0009" x="2" y="909" width="815" height="905"/>
+	<SubTexture name="menubf0010" x="2" y="909" width="815" height="905"/>
+	<SubTexture name="menubf0011" x="2" y="909" width="815" height="905"/>
+	<SubTexture name="menubf0012" x="2" y="909" width="815" height="905"/>
+	<SubTexture name="menubf0013" x="2" y="909" width="815" height="905"/>
+</TextureAtlas>

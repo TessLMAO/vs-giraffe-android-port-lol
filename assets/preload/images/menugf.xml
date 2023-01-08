@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menugf.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menugf0000" x="2" y="2" width="823" height="910"/>
+	<SubTexture name="menugf0001" x="2" y="2" width="823" height="910"/>
+	<SubTexture name="menugf0002" x="827" y="2" width="823" height="910"/>
+	<SubTexture name="menugf0003" x="827" y="2" width="823" height="910"/>
+	<SubTexture name="menugf0004" x="2" y="914" width="823" height="910"/>
+	<SubTexture name="menugf0005" x="2" y="914" width="823" height="910"/>
+</TextureAtlas>
