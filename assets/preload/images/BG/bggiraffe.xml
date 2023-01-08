@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bggiraffe.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="weekonegiraffe0000" x="2" y="2" width="417" height="776" frameX="0" frameY="-3" frameWidth="417" frameHeight="779"/>
+	<SubTexture name="weekonegiraffe0001" x="2" y="2" width="417" height="776" frameX="0" frameY="-3" frameWidth="417" frameHeight="779"/>
+	<SubTexture name="weekonegiraffe0002" x="421" y="2" width="406" height="770" frameX="-5" frameY="-3" frameWidth="417" frameHeight="779"/>
+	<SubTexture name="weekonegiraffe0003" x="421" y="2" width="406" height="770" frameX="-5" frameY="-3" frameWidth="417" frameHeight="779"/>
+	<SubTexture name="weekonegiraffe0004" x="829" y="2" width="378" height="758" frameX="-20" frameY="-1" frameWidth="417" frameHeight="779"/>
+	<SubTexture name="weekonegiraffe0005" x="829" y="2" width="378" height="758" frameX="-20" frameY="-1" frameWidth="417" frameHeight="779"/>
+	<SubTexture name="weekonegiraffe0006" x="1209" y="2" width="370" height="757" frameX="-27" frameY="0" frameWidth="417" frameHeight="779"/>
+	<SubTexture name="weekonegiraffe0007" x="1209" y="2" width="370" height="757" frameX="-27" frameY="0" frameWidth="417" frameHeight="779"/>
+</TextureAtlas>

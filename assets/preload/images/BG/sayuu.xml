@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sayuu.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sayuu0000" x="2" y="2" width="3035" height="1653"/>
+	<SubTexture name="sayuu0001" x="2" y="2" width="3035" height="1653"/>
+	<SubTexture name="sayuu0002" x="3039" y="2" width="3035" height="1653"/>
+	<SubTexture name="sayuu0003" x="3039" y="2" width="3035" height="1653"/>
+	<SubTexture name="sayuu0004" x="2" y="1657" width="3035" height="1653"/>
+	<SubTexture name="sayuu0005" x="2" y="1657" width="3035" height="1653"/>
+	<SubTexture name="sayuu0006" x="3039" y="1657" width="3035" height="1653"/>
+	<SubTexture name="sayuu0007" x="3039" y="1657" width="3035" height="1653"/>
+</TextureAtlas>

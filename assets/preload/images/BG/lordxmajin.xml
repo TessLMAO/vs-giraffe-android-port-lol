@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lordxmajin.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lordxmajin0000" x="2" y="2" width="784" height="1059" frameX="-19" frameY="0" frameWidth="803" frameHeight="1059"/>
+	<SubTexture name="lordxmajin0001" x="2" y="2" width="784" height="1059" frameX="-19" frameY="0" frameWidth="803" frameHeight="1059"/>
+	<SubTexture name="lordxmajin0002" x="788" y="2" width="787" height="1053" frameX="-14" frameY="-5" frameWidth="803" frameHeight="1059"/>
+	<SubTexture name="lordxmajin0003" x="788" y="2" width="787" height="1053" frameX="-14" frameY="-5" frameWidth="803" frameHeight="1059"/>
+	<SubTexture name="lordxmajin0004" x="1577" y="2" width="794" height="1039" frameX="-4" frameY="-19" frameWidth="803" frameHeight="1059"/>
+	<SubTexture name="lordxmajin0005" x="1577" y="2" width="794" height="1039" frameX="-4" frameY="-19" frameWidth="803" frameHeight="1059"/>
+	<SubTexture name="lordxmajin0006" x="2373" y="2" width="796" height="1034" frameX="0" frameY="-24" frameWidth="803" frameHeight="1059"/>
+	<SubTexture name="lordxmajin0007" x="2373" y="2" width="796" height="1034" frameX="0" frameY="-24" frameWidth="803" frameHeight="1059"/>
+</TextureAtlas>

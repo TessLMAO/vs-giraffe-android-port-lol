@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bshin.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shinBG0000" x="2" y="2" width="411" height="479" frameX="-3" frameY="-8" frameWidth="414" frameHeight="487"/>
+	<SubTexture name="shinBG0001" x="2" y="2" width="411" height="479" frameX="-3" frameY="-8" frameWidth="414" frameHeight="487"/>
+	<SubTexture name="shinBG0002" x="415" y="2" width="409" height="481" frameX="-3" frameY="-6" frameWidth="414" frameHeight="487"/>
+	<SubTexture name="shinBG0003" x="415" y="2" width="409" height="481" frameX="-3" frameY="-6" frameWidth="414" frameHeight="487"/>
+	<SubTexture name="shinBG0004" x="2" y="485" width="407" height="485" frameX="-1" frameY="-2" frameWidth="414" frameHeight="487"/>
+	<SubTexture name="shinBG0005" x="2" y="485" width="407" height="485" frameX="-1" frameY="-2" frameWidth="414" frameHeight="487"/>
+	<SubTexture name="shinBG0006" x="411" y="485" width="406" height="487" frameX="0" frameY="0" frameWidth="414" frameHeight="487"/>
+	<SubTexture name="shinBG0007" x="411" y="485" width="406" height="487" frameX="0" frameY="0" frameWidth="414" frameHeight="487"/>
+</TextureAtlas>

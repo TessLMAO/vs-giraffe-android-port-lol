@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spreaker.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speaker0000" x="2" y="2" width="1855" height="330"/>
+	<SubTexture name="speaker0001" x="2" y="2" width="1855" height="330"/>
+	<SubTexture name="speaker0002" x="2" y="334" width="1854" height="325" frameX="-1" frameY="-4" frameWidth="1855" frameHeight="330"/>
+	<SubTexture name="speaker0003" x="2" y="334" width="1854" height="325" frameX="-1" frameY="-4" frameWidth="1855" frameHeight="330"/>
+	<SubTexture name="speaker0004" x="2" y="661" width="1849" height="322" frameX="-3" frameY="-7" frameWidth="1855" frameHeight="330"/>
+	<SubTexture name="speaker0005" x="2" y="661" width="1849" height="322" frameX="-3" frameY="-7" frameWidth="1855" frameHeight="330"/>
+	<SubTexture name="speaker0006" x="2" y="661" width="1849" height="322" frameX="-3" frameY="-7" frameWidth="1855" frameHeight="330"/>
+	<SubTexture name="speaker0007" x="2" y="661" width="1849" height="322" frameX="-3" frameY="-7" frameWidth="1855" frameHeight="330"/>
+</TextureAtlas>

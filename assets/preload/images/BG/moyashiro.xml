@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="moyashiro.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="moyashiro0000" x="2" y="2" width="463" height="940"/>
+	<SubTexture name="moyashiro0001" x="2" y="2" width="463" height="940"/>
+	<SubTexture name="moyashiro0002" x="467" y="2" width="451" height="933" frameX="-6" frameY="-1" frameWidth="463" frameHeight="940"/>
+	<SubTexture name="moyashiro0003" x="467" y="2" width="451" height="933" frameX="-6" frameY="-1" frameWidth="463" frameHeight="940"/>
+	<SubTexture name="moyashiro0004" x="920" y="2" width="419" height="918" frameX="-22" frameY="-2" frameWidth="463" frameHeight="940"/>
+	<SubTexture name="moyashiro0005" x="920" y="2" width="419" height="918" frameX="-22" frameY="-2" frameWidth="463" frameHeight="940"/>
+	<SubTexture name="moyashiro0006" x="1341" y="2" width="406" height="912" frameX="-28" frameY="-2" frameWidth="463" frameHeight="940"/>
+	<SubTexture name="moyashiro0007" x="1341" y="2" width="406" height="912" frameX="-28" frameY="-2" frameWidth="463" frameHeight="940"/>
+</TextureAtlas>

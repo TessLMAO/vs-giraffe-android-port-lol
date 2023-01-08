@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bcyan.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cyan0000" x="2" y="2" width="322" height="460" frameX="0" frameY="-15" frameWidth="322" frameHeight="475"/>
+	<SubTexture name="cyan0001" x="2" y="2" width="322" height="460" frameX="0" frameY="-15" frameWidth="322" frameHeight="475"/>
+	<SubTexture name="cyan0002" x="326" y="2" width="319" height="462" frameX="0" frameY="-12" frameWidth="322" frameHeight="475"/>
+	<SubTexture name="cyan0003" x="326" y="2" width="319" height="462" frameX="0" frameY="-12" frameWidth="322" frameHeight="475"/>
+	<SubTexture name="cyan0004" x="647" y="2" width="312" height="469" frameX="-2" frameY="-4" frameWidth="322" frameHeight="475"/>
+	<SubTexture name="cyan0005" x="647" y="2" width="312" height="469" frameX="-2" frameY="-4" frameWidth="322" frameHeight="475"/>
+	<SubTexture name="cyan0006" x="2" y="473" width="310" height="473" frameX="-3" frameY="0" frameWidth="322" frameHeight="475"/>
+	<SubTexture name="cyan0007" x="2" y="473" width="310" height="473" frameX="-3" frameY="0" frameWidth="322" frameHeight="475"/>
+</TextureAtlas>

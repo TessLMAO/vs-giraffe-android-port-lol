@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kankyaku.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kankyaku0000" x="2" y="2" width="3895" height="1741" frameX="0" frameY="-6" frameWidth="3897" frameHeight="1747"/>
+	<SubTexture name="kankyaku0001" x="2" y="2" width="3895" height="1741" frameX="0" frameY="-6" frameWidth="3897" frameHeight="1747"/>
+	<SubTexture name="kankyaku0002" x="3899" y="2" width="3893" height="1739" frameX="-3" frameY="-5" frameWidth="3897" frameHeight="1747"/>
+	<SubTexture name="kankyaku0003" x="3899" y="2" width="3893" height="1739" frameX="-3" frameY="-5" frameWidth="3897" frameHeight="1747"/>
+	<SubTexture name="kankyaku0004" x="2" y="1745" width="3885" height="1732" frameX="-11" frameY="-2" frameWidth="3897" frameHeight="1747"/>
+	<SubTexture name="kankyaku0005" x="2" y="1745" width="3885" height="1732" frameX="-11" frameY="-2" frameWidth="3897" frameHeight="1747"/>
+	<SubTexture name="kankyaku0006" x="3889" y="1745" width="3883" height="1730" frameX="-14" frameY="0" frameWidth="3897" frameHeight="1747"/>
+	<SubTexture name="kankyaku0007" x="3889" y="1745" width="3883" height="1730" frameX="-14" frameY="0" frameWidth="3897" frameHeight="1747"/>
+</TextureAtlas>
