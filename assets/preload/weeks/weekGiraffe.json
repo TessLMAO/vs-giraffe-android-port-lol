@@ -1,0 +1,40 @@
+{
+	"storyName": "Accumulating fatigue",
+	"difficulties": "Normal, Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "radio",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ranker",
+			"giraffe",
+			[
+				40,
+				155,
+				80
+			]
+		],
+		[
+			"Total exhaustion",
+			"giraffe",
+			[
+				40,
+				155,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Giraffe week"
+}
