@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf1.png">
+<SubTexture name="gf1 idle0000" x="894" y="0" width="292" height="508" frameX="-90" frameY="-162" frameWidth="500" frameHeight="800" />
+<SubTexture name="gf1 idle0001" x="894" y="0" width="292" height="508" frameX="-90" frameY="-162" frameWidth="500" frameHeight="800" />
+<SubTexture name="gf1 idle0002" x="299" y="0" width="295" height="510" frameX="-92" frameY="-160" frameWidth="500" frameHeight="800" />
+<SubTexture name="gf1 idle0003" x="299" y="0" width="295" height="510" frameX="-92" frameY="-160" frameWidth="500" frameHeight="800" />
+<SubTexture name="gf1 idle0004" x="0" y="0" width="299" height="510" frameX="-91" frameY="-160" frameWidth="500" frameHeight="800" />
+<SubTexture name="gf1 idle0005" x="0" y="0" width="299" height="510" frameX="-91" frameY="-160" frameWidth="500" frameHeight="800" />
+<SubTexture name="gf1 idle0006" x="594" y="0" width="300" height="510" frameX="-91" frameY="-160" frameWidth="500" frameHeight="800" />
+<SubTexture name="gf1 idle0007" x="594" y="0" width="300" height="510" frameX="-91" frameY="-160" frameWidth="500" frameHeight="800" />
+</TextureAtlas>
